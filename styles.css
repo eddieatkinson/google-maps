@@ -1,0 +1,13 @@
+body{
+	/* background-color: blue; */
+
+}
+
+#map{
+	height: 100vh;
+}
+
+.city-name{
+	cursor: pointer;
+	color: blue;
+}
